@@ -12,7 +12,7 @@ readme = "README.md"
 keywords = ["django", "celery", "clickup", "httpx", "uv", "docker", "asgi"]
 requires-python = "==3.14.*"
 dependencies = [
-    "Django==5.2.7",
+    "Django==5.2.8",
     "celery[redis,auth,gevent]==5.5.3",
     "flower==2.0.1",
     "gunicorn[setproctitle]==23.0.0",
